@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap_test",
+  "version": "1.0.0",
+  "description": "A project to revisit my skills in bootstrap and learning what's new in bootstrap 4",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "arunoday ray",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arunroyjhs/boot_test.git"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
